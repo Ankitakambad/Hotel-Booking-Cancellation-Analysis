@@ -26,7 +26,7 @@ The main goal of this project is to analyze hotel booking data to understand gue
 5.	Analyze results to help hotels make better decisions.
 
 ## Dashboard
-<img width="1313" height="535" alt="Screenshot 2025-10-18 215518" src="https://github.com/user-attachments/assets/fe3cfc11-7455-4c8f-8d90-aebfd9f758a5" />
+C:\Users\Lenovo\Downloads\Hotel-Booking-Cancellation-Analysis-main\Hotel-Booking-Cancellation-Analysis-main\Screenshot 2025-10-18 215518.png
 
 ## Project Insight
 - Hotels can quickly see bookings, cancellations, and guest trends in one place.​
